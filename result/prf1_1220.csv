@@ -1,0 +1,12 @@
+bert_dense, fine-tuning, seed:13, lr:2e-05, mask_id:0, post:False, split:0
+0.7923,0.7166,0.7525 
+0.7778,0.7357,0.7561 
+0.7838,0.7389,0.7607 
+bert_dense, fine-tuning, seed:13, lr:2e-05, mask_id:1, post:False, split:0
+0.7325,0.7675,0.7496 
+0.7539,0.7707,0.7622 
+0.7726,0.7898,0.7811 
+manual_prompt, fine-tuning, seed:13, lr:2e-05, mask_id:1, post:False, split:0
+0.7946,0.7516,0.7725 
+0.7921,0.7643,0.7780 
+0.7862,0.7611,0.7735 

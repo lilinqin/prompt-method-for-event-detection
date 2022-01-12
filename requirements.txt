@@ -1,0 +1,9 @@
+matplotlib 
+numpy
+pandas==1.2.3
+scikit-learn 
+scipy 
+sklearn==0.0
+torch==1.7.1
+tqdm==4.59.0
+transformers==4.4.2
