@@ -29,4 +29,4 @@ python prompt_tuning.py \
     --fine_tuning \
     --lr 2e-5
 ```
-
+run_lstm.sh和run_base.sh是tbnnam的lstm版本和bert-base版本，运行前需要先下载[中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
